@@ -1,0 +1,18 @@
+You could click "Help" ->"Register Product"->"Obtain a registration key online".
+
+Here is each of VS 2010 version registration link out so that you can get the key from online machine.
+
+VS2010 VB: https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=b029ca51-5825-46e2-b6ad-a4840c85e526
+
+VS2010 C++: https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=7c945c1b-d351-4f77-b526-36e696a413d7
+
+VS 2010 C#: https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=52d9c7a7-5103-4fe6-b83c-5915e816e591
+
+VS 2010 web : https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=345281f9-6588-4888-820f-2695af056d4f 
+
+
+
+
+C++ 	= 
+C# 	= https://visualstudio.microsoft.com/de/?key=D1407496-3FAD-4F31-972E-AD71D60A20DB
+VB 	= R30EZW-548671bd-fd8e-46e6-be71-c7e9def3e3960 / R30EZW-548671bd-fd8e-46e6-be71-c7e9def3e396
